@@ -1,6 +1,8 @@
 alpine
 anmour/bncr
 whyour/qinglong:2.11.3
+whyour/qinglong:2.12.1
+whyour/qinglong:latest
 mzzsfy/auto-proxy-pool
 ht944/rabbitpro:latest
 redis
