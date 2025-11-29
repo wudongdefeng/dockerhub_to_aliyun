@@ -11,3 +11,4 @@ mzz2017/v2raya-nightly:latest
 zhx47/jd_sign:latest
 metacubex/mihomo:Alpha
 alist666/alist:latest
+bestzwei/libretv
